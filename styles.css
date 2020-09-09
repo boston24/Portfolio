@@ -1,0 +1,12 @@
+.container-fluid{
+    height: 100vh;
+}
+
+#me{
+    max-width: 60%;
+    height: auto;
+}
+
+h1,h3{
+    font-size: 5vw;
+}
